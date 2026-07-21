@@ -1,6 +1,6 @@
 ## 6.100A PSet 1: Part A
 ## Name: Cooper Hancock
-## Time Spent: 
+## Time Spent: 0.5 hrs
 ## Collaborators:
 
 ##################################################################################
